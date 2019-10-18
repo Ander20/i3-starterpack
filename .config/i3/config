@@ -110,7 +110,7 @@ bindsym $super+r mode "resize"
 bar {
         colors {
         background #2f343f
-        statusline #2f343f
+        statusline #d8dee8
         separator #4b5262
 
         # colour of border, background, and text
